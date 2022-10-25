@@ -1,2 +1,2 @@
 # Flappy-Bird-PyGame
-A normal Flappy Bird clone made with pygame framework
+A clone of the classic game Flappy Bird made using PyGame framework
